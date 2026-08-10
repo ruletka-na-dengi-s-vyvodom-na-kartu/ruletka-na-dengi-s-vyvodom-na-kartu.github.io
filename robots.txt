@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ruletka-na-dengi-s-vyvodom-na-kartu.github.io
+Sitemap: https://ruletka-na-dengi-s-vyvodom-na-kartu.github.io/sitemap.xml
